@@ -56,8 +56,8 @@ export default function Footer() {
             <a href="tel:+254759383583">+254 759 383 583</a>
             <br />
             Email:{" "}
-            <a href="mailto:najibdahir944@gmail.com">
-              najibdahir944@gmail.com
+            <a href="mailto:info@uboraai.com">
+              info@uboraai.com
             </a>
           </address>
         </div>
@@ -68,7 +68,7 @@ export default function Footer() {
         <p className="footer-fine-print">
           Reg. No. BN-QBSZOKOK · Tanzil Gardens, 5 Star Road, South C,
           Langata, Nairobi, Kenya, 00100 · +254 759 383 583 ·
-          najibdahir944@gmail.com
+          info@uboraai.com
         </p>
         <p className="footer-links">
           <Link to="/privacy-policy">Privacy Policy</Link>

@@ -27,8 +27,8 @@ export default function PrivacyPolicy() {
           Phone / WhatsApp: <a href="tel:+254759383583">+254 759 383 583</a>
           <br />
           Email:{" "}
-          <a href="mailto:najibdahir944@gmail.com">
-            najibdahir944@gmail.com
+          <a href="mailto:info@uboraai.com">
+            info@uboraai.com
           </a>
         </p>
         <p>
@@ -290,8 +290,8 @@ export default function PrivacyPolicy() {
         <p>
           Business Customers and End Users can request deletion of their
           personal data at any time by emailing{" "}
-          <a href="mailto:najibdahir944@gmail.com">
-            najibdahir944@gmail.com
+          <a href="mailto:info@uboraai.com">
+            info@uboraai.com
           </a>{" "}
           or messaging us on WhatsApp at{" "}
           <a
@@ -331,8 +331,8 @@ export default function PrivacyPolicy() {
           Phone / WhatsApp: <a href="tel:+254759383583">+254 759 383 583</a>
           <br />
           Email:{" "}
-          <a href="mailto:najibdahir944@gmail.com">
-            najibdahir944@gmail.com
+          <a href="mailto:info@uboraai.com">
+            info@uboraai.com
           </a>
         </p>
 

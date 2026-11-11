@@ -225,8 +225,8 @@ export default function Home() {
               </p>
               <p>
                 Email:{" "}
-                <a href="mailto:najibdahir944@gmail.com">
-                  najibdahir944@gmail.com
+                <a href="mailto:info@uboraai.com">
+                  info@uboraai.com
                 </a>
               </p>
             </div>

@@ -24,8 +24,8 @@ export default function DataDeletion() {
         <ul>
           <li>
             <strong>Email us</strong> at{" "}
-            <a href="mailto:najibdahir944@gmail.com">
-              najibdahir944@gmail.com
+            <a href="mailto:info@uboraai.com">
+              info@uboraai.com
             </a>{" "}
             with the subject line "Data Deletion Request", including the
             WhatsApp phone number and/or business account associated with
